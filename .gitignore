@@ -1,0 +1,23 @@
+# Vim
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local experiments
+tmp/
+scratch/
+
+# Secrets
+*.pem
+*.key
+*.crt
+
+# SSH
+.ssh/
+
+# Logs
+*.log
