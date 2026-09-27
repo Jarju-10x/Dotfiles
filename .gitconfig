@@ -1,0 +1,11 @@
+[user]
+	name = Jarju-10x
+	email = jarjudrag@gmail.com
+[color]
+    ui = auto
+
+[core]
+    editor = vim
+
+[init]
+    defaultBranch = main
